@@ -1,0 +1,22 @@
+{
+  "name": "nng-utils",
+  "version": "1.0.0",
+  "description": "nanogenmo utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swizzard/nng-utils.git"
+  },
+  "author": "sam raker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swizzard/nng-utils/issues"
+  },
+  "homepage": "https://github.com/swizzard/nng-utils#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
